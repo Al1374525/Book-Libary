@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1607799711 source:c:\users\alber\onedrive\desktop\book library final q3\src\book.cpp
+	"book.h"
+
+1607800430 c:\users\alber\onedrive\desktop\book library final q3\include\book.h
+	<iostream>
+	<random>
+	<string>
+
+1607800430 source:c:\users\alber\onedrive\desktop\book library final q3\main.cpp
+	<iostream>
+	<random>
+	<string>
+	"book.h"
+
